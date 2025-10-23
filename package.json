@@ -1,0 +1,11 @@
+{
+  "name": "omikuji-game",
+  "version": "1.0.0",
+  "description": "シンプルなおみくじゲーム（Node.js）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "あなたの名前",
+  "license": "MIT"
+}
